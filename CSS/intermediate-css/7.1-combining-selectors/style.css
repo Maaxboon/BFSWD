@@ -1,0 +1,20 @@
+/* Write your code here: */
+* {
+  background-color: beige;
+
+  .box p {
+    font-weight: 900;
+  }
+
+  .box ul {
+    color: red;
+  }
+}
+ul p {
+  font-weight: 900;
+}
+
+h1,
+h2 {
+  text-transform: uppercase;
+}
